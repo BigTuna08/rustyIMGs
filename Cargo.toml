@@ -1,0 +1,9 @@
+[package]
+name = "rustyImages"
+version = "0.1.0"
+authors = ["Kyle Nickerson <kln870@mun.ca>"]
+
+[dependencies]
+image = "*"
+rand = "0.4"
+itertools = "0.7.6"
